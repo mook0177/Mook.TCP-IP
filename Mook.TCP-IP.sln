@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mook.TCP-IP", "Mook.TCP-IP\Mook.TCP-IP.csproj", "{D67B6C23-3BFE-442D-8EB2-906795F14AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mook.TCP-IP.Client", "Mook.TCP-IP.Client\Mook.TCP-IP.Client.csproj", "{3689AD34-ED20-4B23-B534-D1D9C64C2B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67B6C23-3BFE-442D-8EB2-906795F14AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67B6C23-3BFE-442D-8EB2-906795F14AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67B6C23-3BFE-442D-8EB2-906795F14AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67B6C23-3BFE-442D-8EB2-906795F14AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3689AD34-ED20-4B23-B534-D1D9C64C2B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3689AD34-ED20-4B23-B534-D1D9C64C2B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3689AD34-ED20-4B23-B534-D1D9C64C2B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3689AD34-ED20-4B23-B534-D1D9C64C2B21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16E126F3-EA0F-4882-92CC-8E3AE3E74BCE}
+	EndGlobalSection
+EndGlobal
